@@ -40,6 +40,7 @@ Or open one of the 3 examples first:
 node sims/build.mjs v8-live          # teardown-out/dist/v8-live.html
 node sims/build.mjs cessna-live
 node sims/build.mjs strandbeest-live
+node sims/build.mjs histero-live     # UteriS XS bipolar hysteroscope, 13 / 17 Fr
 ```
 
 ## What is inside

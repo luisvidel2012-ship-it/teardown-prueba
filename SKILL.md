@@ -17,7 +17,7 @@ cd "$SKILL_DIR" && npm install && npx playwright install chromium
 
 The pages need nothing else. The video needs `ffmpeg` on PATH and the score needs Python 3 (standard library only). Set `FFMPEG`, `PYTHON` or `CHROMIUM` to point at other binaries.
 
-## The 3 examples
+## The examples (3 classics, plus `histero-*`)
 
 Build one, open the HTML, press buttons. Copy the closest one when you start a new machine.
 
@@ -27,7 +27,7 @@ Build one, open the HTML, press buttons. Copy the closest one when you start a n
 | `cessna-*` | The Cessna 337 main landing gear folding into the airframe on takeoff and dropping on landing. | Stroke 0..1: a 201 mm rack turns a 32-tooth pinion (module 4 mm) through exactly 180°. | One degree of freedom posing a whole mechanism, flight phases as functions of time, a runway that rolls under the model. |
 | `strandbeest-*` | Theo Jansen's Strandbeest, 20 legs on one crankshaft, walking broadside over sand. | Wind. The crank speed is integrated from it; every joint follows by circle intersection from Jansen's 11 link lengths. | An exact linkage solver in 67 lines, instanced tubes, foot traces, a contact chart of all 20 feet. |
 
-Each comes in 3 folders: `<name>-shared/` holds the machine, `<name>-film/` the recorded tour, `<name>-live/` the page you drive.
+`histero-*` is a built-from-a-photo example: the UteriS XS bipolar hysteroscope (13 / 17 Fr), driven by one input, the grip, with the sheath diameter in true Fr, a flow model (P = rho g h) and a schematic intrauterine view; it carries a credit footer in the console. Each comes in 3 folders: `<name>-shared/` holds the machine, `<name>-film/` the recorded tour, `<name>-live/` the page you drive.
 
 ```
 node "$SKILL_DIR/sims/build.mjs" v8-live          # → teardown-out/dist/v8-live.html, offline, ~800 KB
