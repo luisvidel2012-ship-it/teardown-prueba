@@ -42,6 +42,14 @@ node sims/build.mjs cessna-live
 node sims/build.mjs strandbeest-live
 ```
 
+### C3 CryoSystem (crioneurolisis)
+
+`sims/c3cryo-live/` is an interactive 3D page (in Spanish) of the inomed C3 CryoSystem: the console on its cart with the gas cylinder, hoses and foot switch, the Joule–Thomson probe tip cut open, and a knee tissue section where the ice ball grows over the infrapatellar branch of the saphenous nerve. One procedure clock drives everything: start-up check, purge, insertion, motor (2 Hz) and sensory (100 Hz) nerve location, 2-min freeze, thaw and removal. Device values come from the IFU (Rev. 3.2); the ice-ball size, thermal profile and current–distance curve are an illustrative model and the page says so.
+
+```
+node sims/build.mjs c3cryo-live      # teardown-out/dist/c3cryo-live.html
+```
+
 ## What is inside
 
 | | |
