@@ -1,0 +1,416 @@
+{
+  "package.json": {
+    "mtime": 1795785247.4813054,
+    "seen": 1795786759.6165118,
+    "ast_hash": "6116c62cc1879deb03777fa193de079c",
+    "semantic_hash": "6116c62cc1879deb03777fa193de079c"
+  },
+  "paths.mjs": {
+    "mtime": 1795785247.4813054,
+    "seen": 1795786759.616519,
+    "ast_hash": "de173e034acf58fe8112ff93e041ae93",
+    "semantic_hash": "de173e034acf58fe8112ff93e041ae93"
+  },
+  "run_sfx.py": {
+    "mtime": 1795785247.4813054,
+    "seen": 1795786759.616522,
+    "ast_hash": "d4453ec1b5dc4d0d7028034379467224",
+    "semantic_hash": "d4453ec1b5dc4d0d7028034379467224"
+  },
+  "sfx/__init__.py": {
+    "mtime": 1795785247.4813054,
+    "seen": 1795786759.6165235,
+    "ast_hash": "52514dbaeb4ebef7ce6b991905c325e5",
+    "semantic_hash": "52514dbaeb4ebef7ce6b991905c325e5"
+  },
+  "sfx/__main__.py": {
+    "mtime": 1795785247.4859145,
+    "seen": 1795786759.6165247,
+    "ast_hash": "7365d7caf04137e182ca29ce49486efd",
+    "semantic_hash": "7365d7caf04137e182ca29ce49486efd"
+  },
+  "sfx/dsp.py": {
+    "mtime": 1795785247.4859145,
+    "seen": 1795786759.6165261,
+    "ast_hash": "e49610dd804c929decf33b84e26f223b",
+    "semantic_hash": "e49610dd804c929decf33b84e26f223b"
+  },
+  "sfx/loudness.py": {
+    "mtime": 1795785247.4859145,
+    "seen": 1795786759.616527,
+    "ast_hash": "da7ad71f778d6fe7db484a55e392f763",
+    "semantic_hash": "da7ad71f778d6fe7db484a55e392f763"
+  },
+  "sfx/mix.py": {
+    "mtime": 1795785247.4859145,
+    "seen": 1795786759.616528,
+    "ast_hash": "1787c9855517397976a8610fa8f2827c",
+    "semantic_hash": "1787c9855517397976a8610fa8f2827c"
+  },
+  "sfx/score_kit.py": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165292,
+    "ast_hash": "0e864b1b2cc288668766cbc4542d224b",
+    "semantic_hash": "0e864b1b2cc288668766cbc4542d224b"
+  },
+  "sfx/synth.py": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165302,
+    "ast_hash": "0e25bcf742f8dbdfa3e77a84a6f10c57",
+    "semantic_hash": "0e25bcf742f8dbdfa3e77a84a6f10c57"
+  },
+  "sheet.mjs": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.616531,
+    "ast_hash": "777cd25dc67d243aed7cd5e88bece5b5",
+    "semantic_hash": "777cd25dc67d243aed7cd5e88bece5b5"
+  },
+  "sims/beats.py": {
+    "mtime": 1795785247.4893053,
+    "seen": 1795786759.6165323,
+    "ast_hash": "801900d8e75c2ae20f1413fc64cb3342",
+    "semantic_hash": "801900d8e75c2ae20f1413fc64cb3342"
+  },
+  "sims/build.mjs": {
+    "mtime": 1795785247.4893053,
+    "seen": 1795786759.6165333,
+    "ast_hash": "0ec38b65589cbd3de6f4163e233fc46e",
+    "semantic_hash": "0ec38b65589cbd3de6f4163e233fc46e"
+  },
+  "sims/capture.mjs": {
+    "mtime": 1795785247.4893053,
+    "seen": 1795786759.6165342,
+    "ast_hash": "be6c1494cb94bdc8bd97af23a8719eb6",
+    "semantic_hash": "be6c1494cb94bdc8bd97af23a8719eb6"
+  },
+  "sims/cessna-film/main.js": {
+    "mtime": 1795785247.4893053,
+    "seen": 1795786759.616535,
+    "ast_hash": "6705c06d8da11423a02ec284e7a8f10a",
+    "semantic_hash": "6705c06d8da11423a02ec284e7a8f10a"
+  },
+  "sims/cessna-film/timeline.json": {
+    "mtime": 1795785247.4931111,
+    "seen": 1795786759.6165361,
+    "ast_hash": "9b2dbc4d2ae388c4d861612e7c3d4594",
+    "semantic_hash": "9b2dbc4d2ae388c4d861612e7c3d4594"
+  },
+  "sims/cessna-live/main.js": {
+    "mtime": 1795785247.4931111,
+    "seen": 1795786759.616537,
+    "ast_hash": "09782d6a42843d438d7679170026cdf5",
+    "semantic_hash": "09782d6a42843d438d7679170026cdf5"
+  },
+  "sims/cessna-shared/console.js": {
+    "mtime": 1795785247.4931111,
+    "seen": 1795786759.616538,
+    "ast_hash": "92238d56814ff415dff2b09574b5aace",
+    "semantic_hash": "92238d56814ff415dff2b09574b5aace"
+  },
+  "sims/cessna-shared/film.js": {
+    "mtime": 1795785247.493486,
+    "seen": 1795786759.6165392,
+    "ast_hash": "e15882ec00ecc0d5bf841995fada2db3",
+    "semantic_hash": "e15882ec00ecc0d5bf841995fada2db3"
+  },
+  "sims/cessna-shared/flight.js": {
+    "mtime": 1795785247.493486,
+    "seen": 1795786759.6165402,
+    "ast_hash": "118a6c3b0e47e0e6bc37d972d8abf7d3",
+    "semantic_hash": "118a6c3b0e47e0e6bc37d972d8abf7d3"
+  },
+  "sims/cessna-shared/gear.js": {
+    "mtime": 1795785247.493486,
+    "seen": 1795786759.616541,
+    "ast_hash": "bedc8a349460472df63e488da77842ee",
+    "semantic_hash": "bedc8a349460472df63e488da77842ee"
+  },
+  "sims/cessna-shared/live.js": {
+    "mtime": 1795785247.493486,
+    "seen": 1795786759.6165419,
+    "ast_hash": "930ed48cb36a9d8a869c860a453061b9",
+    "semantic_hash": "930ed48cb36a9d8a869c860a453061b9"
+  },
+  "sims/cessna-shared/score.py": {
+    "mtime": 1795785247.493486,
+    "seen": 1795786759.616543,
+    "ast_hash": "bcdee04d330f6adad31ecdd6dcee9427",
+    "semantic_hash": "bcdee04d330f6adad31ecdd6dcee9427"
+  },
+  "sims/cessna-shared/stage.js": {
+    "mtime": 1795785247.493486,
+    "seen": 1795786759.616544,
+    "ast_hash": "a5a09ca9381b0972bfa8932bfa45462b",
+    "semantic_hash": "a5a09ca9381b0972bfa8932bfa45462b"
+  },
+  "sims/kit/director.js": {
+    "mtime": 1795785247.493486,
+    "seen": 1795786759.616545,
+    "ast_hash": "f8304f82dad36b4b89dcf68ad4d9acc3",
+    "semantic_hash": "f8304f82dad36b4b89dcf68ad4d9acc3"
+  },
+  "sims/kit/hud.js": {
+    "mtime": 1795785247.49444,
+    "seen": 1795786759.6165462,
+    "ast_hash": "9b038767b778be35ffa73aaf792f7b8b",
+    "semantic_hash": "9b038767b778be35ffa73aaf792f7b8b"
+  },
+  "sims/kit/runtime.js": {
+    "mtime": 1795785247.49444,
+    "seen": 1795786759.616547,
+    "ast_hash": "db4c31ed13f59e87f64d765eceb8221e",
+    "semantic_hash": "db4c31ed13f59e87f64d765eceb8221e"
+  },
+  "sims/kit/stage3d.js": {
+    "mtime": 1795785247.49444,
+    "seen": 1795786759.6165478,
+    "ast_hash": "50035c930ac89a382be0e01e6497df34",
+    "semantic_hash": "50035c930ac89a382be0e01e6497df34"
+  },
+  "sims/kit/util.js": {
+    "mtime": 1795785247.49444,
+    "seen": 1795786759.6165488,
+    "ast_hash": "caf474d7606b90d4706adf183abaaee7",
+    "semantic_hash": "caf474d7606b90d4706adf183abaaee7"
+  },
+  "sims/kit/warm.js": {
+    "mtime": 1795785247.49444,
+    "seen": 1795786759.6165497,
+    "ast_hash": "9033b26bc6bc357e0c00fd3b4066b95c",
+    "semantic_hash": "9033b26bc6bc357e0c00fd3b4066b95c"
+  },
+  "sims/strandbeest-film/main.js": {
+    "mtime": 1795785247.49444,
+    "seen": 1795786759.6165507,
+    "ast_hash": "ad886a5f4bbdf1239352c1477c6fc53b",
+    "semantic_hash": "ad886a5f4bbdf1239352c1477c6fc53b"
+  },
+  "sims/strandbeest-film/timeline.json": {
+    "mtime": 1795785247.494817,
+    "seen": 1795786759.6165516,
+    "ast_hash": "97138e78fe2c301d6c075958d81b1c52",
+    "semantic_hash": "97138e78fe2c301d6c075958d81b1c52"
+  },
+  "sims/strandbeest-live/main.js": {
+    "mtime": 1795785247.494817,
+    "seen": 1795786759.6165524,
+    "ast_hash": "176168daf3da6bf02376cbc780a11c95",
+    "semantic_hash": "176168daf3da6bf02376cbc780a11c95"
+  },
+  "sims/strandbeest-shared/beast.js": {
+    "mtime": 1795785247.494817,
+    "seen": 1795786759.6165535,
+    "ast_hash": "89e647c6a7e9c394da466568638be503",
+    "semantic_hash": "89e647c6a7e9c394da466568638be503"
+  },
+  "sims/strandbeest-shared/console.js": {
+    "mtime": 1795785247.495048,
+    "seen": 1795786759.6165547,
+    "ast_hash": "c1036889dc7c3b1b1d26d9716a12ff25",
+    "semantic_hash": "c1036889dc7c3b1b1d26d9716a12ff25"
+  },
+  "sims/strandbeest-shared/film.js": {
+    "mtime": 1795785247.495048,
+    "seen": 1795786759.6165555,
+    "ast_hash": "cbec89ae90afcc0d402f086c2d4103ed",
+    "semantic_hash": "cbec89ae90afcc0d402f086c2d4103ed"
+  },
+  "sims/strandbeest-shared/jansen.js": {
+    "mtime": 1795785247.495048,
+    "seen": 1795786759.6165566,
+    "ast_hash": "aa754fd3d5129467cb9872e33a6a9c85",
+    "semantic_hash": "aa754fd3d5129467cb9872e33a6a9c85"
+  },
+  "sims/strandbeest-shared/live.js": {
+    "mtime": 1795785247.495048,
+    "seen": 1795786759.6165576,
+    "ast_hash": "603d18b2ee3c835b781ee9ee7186dce1",
+    "semantic_hash": "603d18b2ee3c835b781ee9ee7186dce1"
+  },
+  "sims/strandbeest-shared/score.py": {
+    "mtime": 1795785247.495048,
+    "seen": 1795786759.6165586,
+    "ast_hash": "ca4221031c5b834042358f17ba1a6e2d",
+    "semantic_hash": "ca4221031c5b834042358f17ba1a6e2d"
+  },
+  "sims/strandbeest-shared/stage.js": {
+    "mtime": 1795785247.495048,
+    "seen": 1795786759.6165593,
+    "ast_hash": "68155ede7e5ed597a7729465f379aaf8",
+    "semantic_hash": "68155ede7e5ed597a7729465f379aaf8"
+  },
+  "sims/v8-film/main.js": {
+    "mtime": 1795785247.495048,
+    "seen": 1795786759.6165607,
+    "ast_hash": "ad5ea5824938dcf6fd4ae8c60684dcc1",
+    "semantic_hash": "ad5ea5824938dcf6fd4ae8c60684dcc1"
+  },
+  "sims/v8-film/timeline.json": {
+    "mtime": 1795785247.495741,
+    "seen": 1795786759.6165617,
+    "ast_hash": "4c77f121b18378dfbce6024ab6c352d7",
+    "semantic_hash": "4c77f121b18378dfbce6024ab6c352d7"
+  },
+  "sims/v8-live/main.js": {
+    "mtime": 1795785247.495741,
+    "seen": 1795786759.6165674,
+    "ast_hash": "6662a35c78bf0ccccd14f956829aec03",
+    "semantic_hash": "6662a35c78bf0ccccd14f956829aec03"
+  },
+  "sims/v8-shared/console.js": {
+    "mtime": 1795785247.495741,
+    "seen": 1795786759.6165695,
+    "ast_hash": "abd2c51064e002f0c68e7a174fcdec7b",
+    "semantic_hash": "abd2c51064e002f0c68e7a174fcdec7b"
+  },
+  "sims/v8-shared/engine.js": {
+    "mtime": 1795785247.496004,
+    "seen": 1795786759.6165707,
+    "ast_hash": "00b9a2bc539b02fb458a189596383cb0",
+    "semantic_hash": "00b9a2bc539b02fb458a189596383cb0"
+  },
+  "sims/v8-shared/film.js": {
+    "mtime": 1795785247.496004,
+    "seen": 1795786759.6165714,
+    "ast_hash": "1860218d04936eb66dc7eff062681510",
+    "semantic_hash": "1860218d04936eb66dc7eff062681510"
+  },
+  "sims/v8-shared/kin.js": {
+    "mtime": 1795785247.496004,
+    "seen": 1795786759.6165726,
+    "ast_hash": "8705b2e9a099b9636255a6bd51da3968",
+    "semantic_hash": "8705b2e9a099b9636255a6bd51da3968"
+  },
+  "sims/v8-shared/live.js": {
+    "mtime": 1795785247.496004,
+    "seen": 1795786759.6165733,
+    "ast_hash": "a0b1f2473bdc8eb9d2079425c59472c8",
+    "semantic_hash": "a0b1f2473bdc8eb9d2079425c59472c8"
+  },
+  "sims/v8-shared/score.py": {
+    "mtime": 1795785247.496004,
+    "seen": 1795786759.6165745,
+    "ast_hash": "61e11751f825089d32c57f5042f385ec",
+    "semantic_hash": "61e11751f825089d32c57f5042f385ec"
+  },
+  "sims/v8-shared/stage.js": {
+    "mtime": 1795785247.496004,
+    "seen": 1795786759.6165755,
+    "ast_hash": "5042c618c497a24904e9589d043c80d3",
+    "semantic_hash": "5042c618c497a24904e9589d043c80d3"
+  },
+  "wave.mjs": {
+    "mtime": 1795785247.496004,
+    "seen": 1795786759.6165764,
+    "ast_hash": "834bce9460e8e99017a181024eea3d58",
+    "semantic_hash": "834bce9460e8e99017a181024eea3d58"
+  },
+  "README.md": {
+    "mtime": 1795785247.312399,
+    "seen": 1795786759.6165774,
+    "ast_hash": "4a666d5cc7310f1320c26a503d04f3bc",
+    "semantic_hash": "4a666d5cc7310f1320c26a503d04f3bc"
+  },
+  "SKILL.md": {
+    "mtime": 1795785247.312399,
+    "seen": 1795786759.6165783,
+    "ast_hash": "3cefff39081fa0374c0b07d83a3c2e01",
+    "semantic_hash": "3cefff39081fa0374c0b07d83a3c2e01"
+  },
+  "sfx/samples/SOURCES.md": {
+    "mtime": 1795785247.4859145,
+    "seen": 1795786759.616579,
+    "ast_hash": "7c825dcf5250c3295d1122a86c45d6bb",
+    "semantic_hash": "7c825dcf5250c3295d1122a86c45d6bb"
+  },
+  "docs/bee.gif": {
+    "mtime": 1795785247.3773053,
+    "seen": 1795786759.6165802,
+    "ast_hash": "59f263bc3374114875d20d7edd8b9c32",
+    "semantic_hash": "59f263bc3374114875d20d7edd8b9c32"
+  },
+  "docs/octopus.gif": {
+    "mtime": 1795785247.4253054,
+    "seen": 1795786759.6165812,
+    "ast_hash": "24baffd998986636fcd599fa6072d59d",
+    "semantic_hash": "24baffd998986636fcd599fa6072d59d"
+  },
+  "docs/scorpion.gif": {
+    "mtime": 1795785247.4813054,
+    "seen": 1795786759.6165822,
+    "ast_hash": "e491d4e045707e21951ff9b360d7be61",
+    "semantic_hash": "e491d4e045707e21951ff9b360d7be61"
+  },
+  "sfx/samples/fs-258269-mouth-pop.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.616583,
+    "ast_hash": "0832974820c7ec31f258f7f722865054",
+    "semantic_hash": "0832974820c7ec31f258f7f722865054"
+  },
+  "sfx/samples/fs-323432-typing.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165843,
+    "ast_hash": "65f6171c9aeba10319cb17c8fd02d0fa",
+    "semantic_hash": "65f6171c9aeba10319cb17c8fd02d0fa"
+  },
+  "sfx/samples/fs-329533-room-tone-in-an-apartment-livi.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165853,
+    "ast_hash": "f8ddee3b5b675151899cf9dff1313324",
+    "semantic_hash": "f8ddee3b5b675151899cf9dff1313324"
+  },
+  "sfx/samples/fs-329569-roomtone-bedroom-yew.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.616586,
+    "ast_hash": "2a7a8c8f72831d3dba2381533c84ba0d",
+    "semantic_hash": "2a7a8c8f72831d3dba2381533c84ba0d"
+  },
+  "sfx/samples/fs-339521-vhs-rewind-forward-and-eject.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.616587,
+    "ast_hash": "fccbd875340043319b1751e00ed3703a",
+    "semantic_hash": "fccbd875340043319b1751e00ed3703a"
+  },
+  "sfx/samples/fs-349504-triangle-open-04.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.616588,
+    "ast_hash": "eaa0231634ab29e6deed8e3dc1ad8f5f",
+    "semantic_hash": "eaa0231634ab29e6deed8e3dc1ad8f5f"
+  },
+  "sfx/samples/fs-416777-digital-typing-wav.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165888,
+    "ast_hash": "7b731f4fefdf6ba4fa9756cf4687080a",
+    "semantic_hash": "7b731f4fefdf6ba4fa9756cf4687080a"
+  },
+  "sfx/samples/fs-426767-apartment-room-tone-wav.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165898,
+    "ast_hash": "c41415233dfcf2e592eda716a14dd593",
+    "semantic_hash": "c41415233dfcf2e592eda716a14dd593"
+  },
+  "sfx/samples/fs-447909-keyboard-typing.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165907,
+    "ast_hash": "e3ae6a1a3263876c876dfbac68c27b77",
+    "semantic_hash": "e3ae6a1a3263876c876dfbac68c27b77"
+  },
+  "sfx/samples/fs-447910-plop.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165917,
+    "ast_hash": "daf51a4337b3c9d6138ab0ad03886dfc",
+    "semantic_hash": "daf51a4337b3c9d6138ab0ad03886dfc"
+  },
+  "sfx/samples/fs-79388-keyboard-typing-wav.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.616593,
+    "ast_hash": "4c7c2d673c5b72363011743101acebd9",
+    "semantic_hash": "4c7c2d673c5b72363011743101acebd9"
+  },
+  "sfx/samples/fs-824189-pop-in-sfx.ogg": {
+    "mtime": 1795785247.4863532,
+    "seen": 1795786759.6165936,
+    "ast_hash": "48d4bf63d6ade9dec1f21871d2308e59",
+    "semantic_hash": "48d4bf63d6ade9dec1f21871d2308e59"
+  }
+}
